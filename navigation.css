@@ -1,0 +1,16 @@
+
+		body{
+			margin: 0%;
+		}
+		.navbar{
+			background-color: skyblue;
+			padding: 0.5%;
+			color: white;
+			text-align: center;
+		}
+		.navbar a{
+			margin-right: 7%;
+			color: white;
+			font-size: 15px;
+			text-decoration: none;
+		}
